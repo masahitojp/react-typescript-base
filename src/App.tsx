@@ -1,7 +1,7 @@
 import * as React from 'react'
 import styled from 'react-emotion'
 
-import ButtonComponent from './components/atoms/Button'
+import Button from './components/atoms/Button'
 
 type ComponentProps = {
   className?: string
@@ -21,9 +21,9 @@ const StyledComponent1 = styled(Component)({
 })
 
 export const App = () => (
-  <div>
-    <ButtonComponent>aaa</ButtonComponent>
+  <>
+    <Button>aaa</Button>
     <StyledComponent0 label="Yea! No need to re-type this label prop." />
     <StyledComponent1 label="Yea! No need to re-type this label prop." />
-  </div>
+  </>
 )

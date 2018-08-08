@@ -6,14 +6,19 @@
   "scripts": {
     "start": "./node_modules/.bin/webpack-serve --open --config serve.config.js",
     "build": "./node_modules/.bin/webpack",
-    "lint": "tslint -c ./tslint.json --project tsconfig.json --fix './src/**/*.ts{,x}'",
+    "lint": "tslint -c ./tslint.json --project tsconfig.json './src/**/*.ts{,x}'",
+    "storybook": "start-storybook -p 6006",
     "test": "jest"
   },
   "author": "masahito",
   "license": "MIT",
   "devDependencies": {
+    "@storybook/react": "4.0.0-alpha.16",
     "@types/react": "16.4.8",
     "@types/react-dom": "16.0.7",
+    "@types/storybook__addon-actions": "^3.0.3",
+    "@types/storybook__addon-links": "^3.3.1",
+    "@types/storybook__react": "^3.0.7",
     "awesome-typescript-loader": "5.2.0",
     "emotion": "9.2.6",
     "prettier": "^1.14.1",
