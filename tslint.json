@@ -1,5 +1,8 @@
 {
+  "rulesDirectory": ["tslint-plugin-prettier"],
+  "extends": ["tslint-config-airbnb", "tslint-react", "tslint-config-prettier"],
   "rules": {
+    "prettier": true,
     "variable-name": [
       true,
       "ban-keywords",

@@ -1,7 +1,7 @@
-import * as React from "react";
-import styled from "react-emotion";
+import * as React from 'react'
+import styled from 'react-emotion'
 
-const ButtonBase = styled("button")`
+const ButtonBase = styled('button')`
   display: inline-block;
   padding: 0.8rem;
   border-radius: 5px;
@@ -13,8 +13,8 @@ const ButtonBase = styled("button")`
   transition: opacity 0.3s;
   color: #8c8c8c;
   cursor: pointer;
-`;
+`
 
-const Button = ({ ...props }) => <ButtonBase {...props} />;
+const Button = ({ ...props }) => <ButtonBase {...props} />
 
-export default Button;
+export default Button
