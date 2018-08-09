@@ -356,17 +356,17 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/storybook__addon-actions@^3.0.3":
+"@types/storybook__addon-actions@3.4.1":
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/@types/storybook__addon-actions/-/storybook__addon-actions-3.4.1.tgz#8f90d76b023b58ee794170f2fe774a3fddda2c1d"
 
-"@types/storybook__addon-links@^3.3.1":
+"@types/storybook__addon-links@3.3.2":
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/@types/storybook__addon-links/-/storybook__addon-links-3.3.2.tgz#913f6dae27903da7b1f117e9b51ca473770dba50"
   dependencies:
     "@types/react" "*"
 
-"@types/storybook__react@^3.0.7":
+"@types/storybook__react@3.0.9":
   version "3.0.9"
   resolved "https://registry.yarnpkg.com/@types/storybook__react/-/storybook__react-3.0.9.tgz#aac193f0c037ddfc2342bd027d720553ac089a56"
   dependencies:
