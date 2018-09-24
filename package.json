@@ -36,8 +36,8 @@
     "webpack-serve": "2.0.2"
   },
   "dependencies": {
-    "react": "16.4.2",
-    "react-dom": "16.4.2",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
     "react-emotion": "9.2.10"
   }
 }
