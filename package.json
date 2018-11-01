@@ -15,7 +15,7 @@
   "devDependencies": {
     "@babel/core": "7.1.2",
     "@babel/preset-env": "7.1.0",
-    "@storybook/react": "4.0.0-alpha.25",
+    "@storybook/react": "4.0.2",
     "@types/react": "16.4.17",
     "@types/react-dom": "16.0.9",
     "@types/storybook__addon-actions": "3.4.1",
