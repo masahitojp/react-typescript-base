@@ -23,7 +23,7 @@
     "@types/storybook__react": "3.0.9",
     "awesome-typescript-loader": "5.2.1",
     "babel-loader": "8.0.4",
-    "emotion": "9.2.12",
+    "emotion": "10.0.0",
     "prettier": "1.14.3",
     "tslint": "5.11.0",
     "tslint-config-airbnb": "5.11.0",
@@ -38,6 +38,6 @@
   "dependencies": {
     "react": "16.6.0",
     "react-dom": "16.6.0",
-    "react-emotion": "9.2.12"
+    "react-emotion": "10.0.0"
   }
 }
