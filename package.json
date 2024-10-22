@@ -13,8 +13,8 @@
   "author": "masahito",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "7.1.6",
-    "@babel/preset-env": "7.1.6",
+    "@babel/core": "7.25.9",
+    "@babel/preset-env": "7.25.9",
     "@storybook/react": "7.2.0",
     "@types/react": "16.7.10",
     "@types/react-dom": "16.0.11",
